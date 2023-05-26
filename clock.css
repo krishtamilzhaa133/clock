@@ -1,0 +1,87 @@
+ body{
+ 	background: rgb(238,174,202);
+    background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(255,2,70,1) 19%);
+ }
+ #head1{
+ 	margin-top: 100px;
+ 	margin-left:480px;
+ 	font-size:60px;
+ 	color:black;
+    font-family: cursive;
+    font-weight: bold;
+ }
+ #cointainer{
+ 	margin-top:5px;
+ 	margin-left: 500px;
+ 	border:10px solid black;
+ 	width:400px;
+ 	height: 100px;
+ 	text-align:center;
+ 	padding:20px 0px 0px 0px;
+    font-family: fantasy;
+
+ }
+ 
+ 
+ #cointainer1{
+ 	margin-top:40px;
+ 	margin-left: 239px;
+ 	border:10px solid black;
+ 	width:40px;
+ 	height: 150px;
+ 	text-align:center;
+ 	padding:20px 0px 0px 0px;
+    font-family: fantasy;
+    color: white;
+    background-color: black;
+
+ }
+ 
+ #cointainer2{
+ 	
+ 	margin-left: 239px;
+ 	border:7px solid black;
+ 	width:250px;
+ 	height:20px;
+ 	text-align:center;
+ 	padding:0px 0px 0px 0px;
+    font-family: fantasy;
+    color: white;
+    background-color: black;
+ }
+ 
+ 
+ #cointainer3{
+ 	margin-top: 18px;
+ 	margin-left: 29px;
+ 	border:1px solid black;
+ 	width:230px;
+    height: 20px;
+ 	text-align:center;
+ 	padding:0px 0px 0px 0px;
+    font-family: fantasy;
+    color: white;
+    background-color: black;
+    transform: rotateZ(700deg);
+
+ }
+ #hours,#i,#mins,#seconds,#ampm,#j{
+ 	font-size:65px;
+ 	color:black;
+ }
+ #circle{
+ 	width:540px;
+ 	height:510px;
+ 	background-color:white;
+ 	margin-left:450px;
+ 	padding-top:20px;
+ 	border-radius:50%;
+    background-image: url(clock1.jpg);
+    background-repeat: no-repeat;
+    background-size: 550px;
+    background-position: center;
+
+
+
+ }
+ 
